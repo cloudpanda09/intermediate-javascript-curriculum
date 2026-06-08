@@ -41,7 +41,7 @@ let count = 0;
 
 for (let i = 0; i < nums.length; i++) {
     if (nums[i] > 10) {
-        count++
+        count++; // need semicolon
     }
 }
 console.log("There are", count, "numbers greater than 10.");

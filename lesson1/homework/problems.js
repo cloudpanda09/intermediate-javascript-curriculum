@@ -27,7 +27,7 @@ if (number > 0) {
 // Print the first animal, last animal, and length of the array.
 
 let animals = ["red panda", "dog", "cat", "hamster", "parakeet"]
-console.log(animals[0], animals[4])
+console.log(animals[0], animals[4], animals.length)
 
 // Problem 4
 // Find the sum of all numbers in the array.

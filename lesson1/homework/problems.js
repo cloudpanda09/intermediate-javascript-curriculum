@@ -6,7 +6,9 @@ let favorite_food = "pasta"
 let favorite_color = "purple"
 let favorite_number = "10"
 
-console.log("My favorite food is " + favorite_food + ". My favorite color is " + favorite_color + "and my favorite number is " + favorite_number)
+console.log("My favorite food is " + favorite_food + ".");
+console.log("My favorite color is " + favorite_color + ".");
+console.log("My favorite number is " + favorite_number + ".");
 
 // Problem 2
 // Create a variable for a number.
